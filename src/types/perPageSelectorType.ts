@@ -1,0 +1,1 @@
+export type PerPageSelector = '10' | '20' | '30' | '0';

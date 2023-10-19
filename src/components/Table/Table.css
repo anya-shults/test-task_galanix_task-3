@@ -1,0 +1,40 @@
+table {
+  position: relative;
+  border-radius: 50px;
+}
+
+tr:nth-child(2n + 2) {
+  background-color:rgba(70, 87, 227, 0.1);
+}
+
+th {
+  position: sticky;
+  position: -webkit-sticky;
+  top: 0;
+  font-size: 14px;
+  padding: 10px 10px;
+  text-align: left;
+  background-color: rgba(255,152,56,0.3);
+  
+}
+
+td {
+  padding: 5px 10px;
+  vertical-align: top;
+  font-size: 14px;
+}
+
+p {
+  margin-top: 0;
+}
+
+@media (min-width: 1390px) {
+  th {
+    font-size: 20px;
+    padding: 20px 10px;
+  }
+
+  td {
+    font-size: 16px;
+  }
+}
