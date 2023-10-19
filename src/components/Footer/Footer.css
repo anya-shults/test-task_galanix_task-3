@@ -1,0 +1,10 @@
+.footer {
+  border-top: 1px darkgrey solid;
+  text-align: center;
+  background: #fff;
+  padding-block: 40px;
+}
+
+.footer__text {
+  margin: 0;
+}
