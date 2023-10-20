@@ -4,7 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 [DEMO](https://anya-shults.github.io/test-task_galanix_task-3/) in NOT WORKING (Mixed Content: The page was loaded over HTTPS, but requested an insecure resource. This request has been blocked; the content must be served over HTTPS.)
 
-![Examle of working page](https://github.com/anya-shults/test-task_galanix_task-3/assets/110985154/89f960e6-1d68-4212-bb1c-8e68c34e162d)
+Example of working page:
+![Example of working page](https://github.com/anya-shults/test-task_galanix_task-3/assets/110985154/89f960e6-1d68-4212-bb1c-8e68c34e162d)
 
 
 Stack: React, TypeScript, REST API, HTML, CSS, BEM.
